@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "@nuxt/ui-pro";
+
+@theme static {
+  --ui-primary: #0ea5e9;
+}
